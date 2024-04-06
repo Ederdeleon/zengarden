@@ -278,7 +278,7 @@ h3::after {
     position: relative;
     width: 100%;
     height: auto;
-    background-image: url("images/back.jpg");
+    background-image: url("back.jpg");
     text-align: center;
   }
   .sidebar nav ul {
