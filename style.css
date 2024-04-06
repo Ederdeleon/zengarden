@@ -267,7 +267,7 @@ h3::after {
   grid-template-rows: auto;
   margin-top: 10px;
   margin-bottom: 10px;
-  background-image: url("images/back.jpg");
+  background-image: url("back.jpg");
 }
 
 @media (max-width: 768px) {
